@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mahcoffee-demo/static/css/main.073c9b0a.css",
-    "main.js": "/mahcoffee-demo/static/js/main.ff339149.js",
+    "main.js": "/mahcoffee-demo/static/js/main.8cba0382.js",
     "static/js/787.325c7e45.chunk.js": "/mahcoffee-demo/static/js/787.325c7e45.chunk.js",
     "index.html": "/mahcoffee-demo/index.html",
     "main.073c9b0a.css.map": "/mahcoffee-demo/static/css/main.073c9b0a.css.map",
-    "main.ff339149.js.map": "/mahcoffee-demo/static/js/main.ff339149.js.map",
+    "main.8cba0382.js.map": "/mahcoffee-demo/static/js/main.8cba0382.js.map",
     "787.325c7e45.chunk.js.map": "/mahcoffee-demo/static/js/787.325c7e45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ff339149.js"
+    "static/js/main.8cba0382.js"
   ]
 }
